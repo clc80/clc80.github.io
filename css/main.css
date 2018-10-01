@@ -2122,7 +2122,9 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 #clients img {
   max-width: 200px;
 }
-
+#clients #sponsor {
+  max-width: 100%;
+}
 
 /* ===================================================================
  *  17. footer - (_layout.scss)
